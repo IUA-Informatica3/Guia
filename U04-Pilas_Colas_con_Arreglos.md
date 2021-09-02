@@ -8,8 +8,6 @@
 
 3. Modifique el programa anterior para que la calculadora de 4 funciones trabaje con números en punto flotante.
 
-   Suponga que exponente será siempre un entero mayor o igual que 1.
-
 4. Implemente un programa que ingresada una función matemática, verifique si la cantidad de (,[,{ que abren están balanceados con los que cierran.
 
 5. Implemente un apuntador de citas usando el concepto de cola circular
