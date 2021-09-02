@@ -10,5 +10,4 @@
 
 4. Implemente un programa que ingresada una función matemática, verifique si la cantidad de (,[,{ que abren están balanceados con los que cierran.
 
-5. Implemente un apuntador de citas usando el concepto de cola circular
-implementada mediante el uso de un arreglo.
+5. Implemente un apuntador de citas usando el concepto de cola implementada mediante el uso de un arreglo.
