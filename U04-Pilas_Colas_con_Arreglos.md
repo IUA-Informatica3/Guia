@@ -2,7 +2,7 @@
 
 # Práctico 4: **Pilas Colas con arreglos**
 
-1. Realice el análisis de notación O de cada uno de los métodos de la estructura.
+1. Realice el análisis de notación O de cada uno de los métodos de la estructura en su mejor y peor caso.
 
 2. Implemente una calculadora de 4 funciones en notación polaca usando el concepto de pilas implementada mediante el uso de un arreglo.
 
