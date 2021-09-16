@@ -15,15 +15,21 @@ iésimo nivel de un árbol binario
 
 5. Reconstruir un árbol binario a partir de los recorridos siguientes (para hacer a
 mano):
+
+
+#### Arbol 1:
 ```
     Preorden: 2, 5, 3, 9, 7, 1, 6, 4, 8
     Inorden: 9, 3, 7, 5, 1, 2, 6, 8, 4.
+```
+#### Arbol 2:
+```
     Inorden: 5, 6, 12, 10, 1, 9, 13, 4, 8, 2, 7, 3, 11.
     Postorden: 6, 5, 10, 9, 1, 13, 12, 2, 8, 3, 11, 7, 4.
 ```
 
 6. Escriba un método que devuelva la cantidad de nodos que posee un árbol
-7. Implementar una función no recursiva para recorrer un árbol binario en inorden.
+7. Implementar una función **no recursiva** para recorrer un árbol binario en inorden.
 8. Realice un programa que cargue el archivo dic.txt e ingrese cada palabra en el árbol.
 Luego pregunte por una palabra y la busque dentro del árbol. Muestre el tiempo que
 tardó en cargar todo el diccionario y el tiempo que demora en buscar una palabra.
